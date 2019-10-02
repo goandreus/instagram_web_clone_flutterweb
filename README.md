@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## The Instagram Web | Flutter Web
 
-![FlutterWeb Lapopt Size](https://ibb.co/jWgpM57)
+![FlutterWeb Lapopt Size](https://i.ibb.co/wwMvWLD/Screenshot-21.png)
